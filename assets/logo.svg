@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-labelledby="t">
+<title id="t">Observatory Admin knight</title>
+<rect width="512" height="512" rx="112" fill="#05060A"/>
+<rect x="1" y="1" width="510" height="510" rx="111" fill="none" stroke="#D4AF37" stroke-opacity=".22" stroke-width="2"/>
+<g transform="translate(256 258) scale(1.14) translate(-255 -254)">
+<!-- head + neck, facing left -->
+<path fill="#D4AF37" d="M276 84 L300 112 C350 132 384 176 388 236 C392 292 372 336 352 372 L184 372 C184 328 206 300 240 272 L232 256 C210 270 188 274 166 266 L134 257.4 C122 253 118 240 124 230 L232 122 Z"/>
+<!-- mane: a crescent of light behind the head -->
+<path fill="#F3D27A" d="M292 103 L300 112 C350 132 384 176 388 236 C392 292 372 336 352 372 L316 372 C338 332 352 292 348 240 C344 190 324 150 292 103 Z"/>
+<path fill="none" stroke="#05060A" stroke-width="12" stroke-linecap="butt" d="M288 97 C324 150 344 190 348 240 C352 292 338 332 314 376"/>
+<!-- eye -->
+<path fill="#05060A" d="M224 168 L244.8 156 L256.8 176.8 L236 188.8 Z"/>
+<!-- base -->
+<rect x="148" y="388" width="216" height="36" rx="10" fill="#D4AF37"/>
+</g>
+</svg>
